@@ -13,7 +13,7 @@ body {
 
 .app {
     height: 100%;
-    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(./images/Eminem-Snoop-Dogg.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.64), rgba(0, 0, 0, 0.64)), url(./images/Eminem-Snoop-Dogg.jpg);
 
     background-size: cover;
     background-position: center;
@@ -24,7 +24,7 @@ body {
 }
 
 .card {
-    width: 50%;
+    width: 60%;
     padding: 48px;
     border-radius: 16px;
     color: #fff;
@@ -35,7 +35,7 @@ body {
 }
 
 .heading {
-    font-size: 56px;
+    font-size: 48px;
     font-weight: bolder;
 }
 
